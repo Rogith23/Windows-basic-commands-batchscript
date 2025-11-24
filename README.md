@@ -97,7 +97,8 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
-<img width="954" height="106" alt="Screenshot 2025-11-24 091020" src="https://github.com/user-attachments/assets/6413d71d-1973-49ad-8f4f-be2f508fa977" />
+<img width="903" height="58" alt="image" src="https://github.com/user-attachments/assets/543b5de7-8022-4e84-93ed-71a38d23e4a8" />
+
 
 
 
@@ -114,7 +115,8 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-<img width="837" height="191" alt="Screenshot 2025-11-24 092039" src="https://github.com/user-attachments/assets/51d5754f-ea04-46f5-8ad4-eb1791e50729" />
+<img width="817" height="185" alt="image" src="https://github.com/user-attachments/assets/039726fe-b935-4b3e-b620-e872dd1818a9" />
+
 
 
 
@@ -127,7 +129,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-<img width="441" height="142" alt="Screenshot 2025-11-24 092249" src="https://github.com/user-attachments/assets/ec8fa1af-d0d6-46a4-ba11-9eac0d028bf6" />
+<img width="725" height="151" alt="image" src="https://github.com/user-attachments/assets/30cd9491-5958-4e31-8d6d-bc5b845fae27" />
+
 
 
 
@@ -143,7 +146,8 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
-<img width="373" height="54" alt="Screenshot 2025-11-24 092259" src="https://github.com/user-attachments/assets/39f184c4-4ff8-4fb1-9241-46c9ff05fc46" />
+<img width="519" height="46" alt="image" src="https://github.com/user-attachments/assets/d56f9592-cf5b-48db-bda6-b37650d10390" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -155,7 +159,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-<img width="513" height="383" alt="Screenshot 2025-11-24 092737" src="https://github.com/user-attachments/assets/11c6a249-7fdc-4b58-a1c2-5143812fede1" />
+<img width="597" height="333" alt="image" src="https://github.com/user-attachments/assets/2c144ffc-07d1-4718-9859-1aed70730c85" />
 
 
 
